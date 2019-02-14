@@ -27,7 +27,7 @@ body {
 }
 
 .nav {
-  list-style-type: none;
+  text-decoration: : none;
   padding: 0;
   margin: 0;
 }
@@ -39,10 +39,6 @@ body {
 
 .nav li {
   display: inline-block;
-}
-
-.nav giga {
-  text-decoration: none;
 }
 
 @media only screen and (min-width: 38em) {

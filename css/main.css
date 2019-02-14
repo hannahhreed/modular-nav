@@ -41,6 +41,10 @@ body {
   display: inline-block;
 }
 
+.nav giga {
+  text-decoration: none;
+}
+
 @media only screen and (min-width: 38em) {
 
   .header {
